@@ -1,2 +1,2 @@
 # test
-django==1.9.3
+django==1.11
